@@ -51,5 +51,8 @@ Compile the program using a C++ compiler like g++:
 **Running the Program
 
 Once compiled, the program will generate test.wav in the same directory. You can play it using any media player that supports WAV format.**
+
+![image](https://github.com/user-attachments/assets/4d3cf200-b620-42a4-bbbf-d7f3bcd7f595)
+
  
 
