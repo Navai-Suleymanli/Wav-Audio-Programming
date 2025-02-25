@@ -48,11 +48,12 @@ Compile the program using a C++ compiler like g++:
  g++ -o wav_generator main.cpp
  ./wav_generator
 
-**Running the Program
+**Running the Program**
 
-Once compiled, the program will generate test.wav in the same directory. You can play it using any media player that supports WAV format.**
+Once compiled, the program will generate test.wav in the same directory. You can play it using any media player that supports WAV format.
 
 ![image](https://github.com/user-attachments/assets/4d3cf200-b620-42a4-bbbf-d7f3bcd7f595)
+This image is obtained by visualizing the resulting test.wav file using Audacity
 
  
 
