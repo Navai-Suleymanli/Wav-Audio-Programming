@@ -39,15 +39,6 @@ C++ Standard Library (iostream, fstream, string, cmath)
 
 No external dependencies required
 
-**Compilation & Execution**
-
-Using g++
-
-Compile the program using a C++ compiler like g++:
-
- g++ -o wav_generator main.cpp
- ./wav_generator
-
 **Running the Program**
 
 Once compiled, the program will generate test.wav in the same directory. You can play it using any media player that supports WAV format.
